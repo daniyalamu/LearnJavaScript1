@@ -9,5 +9,3 @@ let rollNo;
 console.table([classId, subject, course, place, rollNo])
 console.log(typeof undefined)// data type of undefined
 console.log(typeof null)   //data of null is object 
-
-
